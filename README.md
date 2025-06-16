@@ -1,8 +1,5 @@
 # jogo-super-trunfo-nivel-aventureiro
 
-===============================================================
-                      SUPER TRUNFO - PAÍSES
-===============================================================
 Descrição:
 Super Trunfo é um jogo de cartas no qual cada carta representa
 um país com diversos atributos (população, área, PIB, etc).
@@ -23,5 +20,5 @@ Atributos disponíveis para comparação:
 5. Densidade Demográfica (calculada automaticamente)
 
 Boa sorte e que vença o país mais forte!
-===============================================================
+
 
